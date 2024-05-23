@@ -26,8 +26,8 @@ const Table = ({
             className={
               paintedRows
                 ? index % 2 == 0
-                  ? 'bg-slate-100/50'
-                  : 'bg-slate-400/50'
+                  ? 'bg-slate-100/20'
+                  : 'bg-slate-400/20'
                 : ''
             }
           >
